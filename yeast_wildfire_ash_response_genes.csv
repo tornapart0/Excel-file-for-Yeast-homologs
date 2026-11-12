@@ -1,0 +1,31 @@
+Gene_Symbol,Systematic_ORF,Wildfire_Ash_Stressor_Category,Response_Direction,Biological_Function_and_Ash_Mechanism,Primary_Literature_Reference
+ENA1,YDR040C,Alkaline pH Stress,Upregulated / Required,P-type ATPase sodium/lithium pump; strongly induced by high pH via Rim101 and calcineurin pathways,Lamb et al. 2001; Serrano et al. 2004
+RIM101,YHL027W,Alkaline pH Stress,Activated / Required,Zinc-finger transcriptional repressor mediating alkaline pH response and cell wall assembly,Lamb et al. 2001; Penalva et al. 2008
+WSC1,YOR008C,Alkaline pH Stress,Required Sensor,Cell-surface membrane stress sensor that detects external alkalinization and activates Slt2 MAPK,Serrano et al. 2006 (JBC)
+SLT2,YHR030C,Alkaline pH Stress,Activated / Required,MAP kinase in the cell wall integrity pathway transiently activated by high pH,Serrano et al. 2006 (JBC)
+FKS2,YGR032W,Alkaline pH Stress,Upregulated,"Catalytic subunit of 1,3-beta-D-glucan synthase; induced by alkaline pH in an Slt2-dependent manner",Serrano et al. 2006 (JBC)
+DFG5,YMR238W,Alkaline pH Stress,Upregulated / Required,GPI-anchored membrane protein required for cell wall biogenesis; deletion causes alkali sensitivity,Serrano et al. 2006 (JBC)
+SKT5,YBL061C,Alkaline pH Stress,Upregulated / Required,Activator of chitin synthase Chs3; induced at high pH to reinforce yeast cell wall,Serrano et al. 2006 (JBC)
+CRH1,YGR189C,Alkaline pH Stress,Upregulated,Chitin transglycosylase functioning in cell wall remodeling during alkaline stress,Serrano et al. 2006 (JBC)
+PHO84,YML123C,Alkaline pH / Nutrient Limitation,Upregulated,High-affinity inorganic phosphate transporter induced as alkaline pH reduces phosphate bioavailability,Serrano et al. 2002; Ariño 2010
+PHO89,YBR296C,Alkaline pH / Nutrient Limitation,Upregulated,Na+/Pi cotransporter active specifically at alkaline pH,Serrano et al. 2002; Ariño 2010
+CTR1,YPR124W,Alkaline pH / Copper Homeostasis,Upregulated / Required,High-affinity copper transporter; alkaline ash environments severely limit copper uptake,Serrano et al. 2004 (JBC)
+CCC2,YDR270W,Alkaline pH / Copper Homeostasis,Required,Cu(+2)-transporting P-type ATPase required for iron uptake and survival under alkaline stress,Serrano et al. 2004 (JBC)
+FET3,YMR058W,Alkaline pH / Iron Homeostasis,Upregulated / Required,Ferroxidase required for high-affinity iron uptake; induced when high pH precipitates Fe3+,Serrano et al. 2004 (JBC)
+FET4,YMR319C,Alkaline pH / Trace Metal Transport,Upregulated / Protective,"Low-affinity Fe(II), Cu, and Zn transporter; overexpression confers tolerance to alkaline pH",Serrano et al. 2004 (JBC)
+AFT1,YGL071W,Iron / Trace Metal Homeostasis,Activated / Required,Iron-regulated transcription factor activating iron regulon genes under alkaline-induced iron starvation,Serrano et al. 2004 (JBC)
+CUP1-1,YHR053C,Heavy Metal Toxicity (Cu/Cd),Upregulated,Metallothionein binding excess copper and trace heavy metals leached from wildfire ash,Winge et al. 1985; Jin et al. 2008
+ZRT1,YGL255W,Trace Metal Homeostasis (Zinc),Modulated,High-affinity zinc transporter regulated in response to bioavailable zinc shifts in ash,Zhao & Eide 1996
+ZRC1,YMR243C,Heavy Metal Detoxification (Zinc),Upregulated,Vacuolar membrane zinc transporter sequestering excess zinc into the vacuole,MacDiarmid et al. 2003
+SMF1,YOL122C,Heavy Metal Homeostasis (Mn/Fe),Modulated,Divalent metal ion transporter regulating manganese uptake; Mn is enriched in wildfire ash,Supek et al. 1996
+ACR3,YPR201W,Heavy Metal Detoxification (Arsenic),Upregulated,Plasma membrane arsenite efflux pump detoxifying trace arsenic found in wood/soil ash,Bobrowicz et al. 1997
+YCF1,YDR135C,Heavy Metal / Xenobiotic Detoxification,Upregulated,"Vacuolar glutathione S-conjugate ABC transporter sequestering heavy metals (Cd, As, Pb)",Li et al. 1997
+YAP1,YML007W,Oxidative & Xenobiotic Stress,Activated / Required,Basic leucine zipper transcription factor regulating oxidative stress and PAH/quinone detoxification,Kuge & Jones 1994; Gasch et al. 2000
+SOD1,YJR104C,Oxidative Stress,Upregulated,Cytosolic copper-zinc superoxide dismutase neutralizing reactive oxygen species (ROS) from ash metals,Bermingham-McDonogh et al. 1988
+SOD2,YHR008C,Oxidative Stress,Upregulated,Mitochondrial manganese superoxide dismutase protecting against metal-catalyzed oxidative damage,van Loon et al. 1986
+CTT1,YGR088W,General & Oxidative Stress,Upregulated,Cytosolic catalase T degrading hydrogen peroxide induced by ash leachates and high pH,Gasch et al. 2000
+GPX2,YBR244W,Oxidative Stress,Upregulated,Phospholipid hydroperoxide glutathione peroxidase induced by Yap1 during oxidative lipid damage,Inoue et al. 1999
+PDR5,YOR153W,Xenobiotic / PAH Efflux,Upregulated,Plasma membrane ABC multidrug transporter exporting polycyclic aromatic hydrocarbons (PAHs) and phenols,Balzi et al. 1994; Kolaczkowski et al. 1998
+SNQ2,YDR011W,Xenobiotic / PAH Efflux,Upregulated,Plasma membrane ABC transporter conferring resistance to smoke-derived mutagens and PAHs,Servos et al. 1993
+EXG1,YLR300W,Smoke Taint / Volatile Phenol Release,Active Enzymatic Role,"Exo-1,3-beta-glucanase; yeast glycosidase activity cleaves grape smoke-taint glycosides to release guaiacol",Wilkinson et al. 2011; Frontiers Microbiol 2025
+BGL2,YGR282C,Smoke Taint / Volatile Phenol Release,Active Enzymatic Role,"Endo-beta-1,3-glucanase involved in cell wall remodeling and hydrolysis of glycosylated smoke phenols",Wilkinson et al. 2011; Frontiers Microbiol 2025
